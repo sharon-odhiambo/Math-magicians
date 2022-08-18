@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import Home from '../../spa/home.js';
+import Home from '../../SPA/home';
 
 describe('Home', () => {
   test('should match Home snapshot', () => {
