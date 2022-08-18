@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: linear-gradient(180deg, #52ACFF 55%, #FFE32C 100%);
+  background-image: linear-gradient(180deg, #52acff 55%, #ffc32c 100%);
 }
 
 form {
@@ -67,7 +67,7 @@ nav a {
   padding: 5px;
   text-decoration: none;
   font-size: 18px;
-  color: #FFE32C;
+  color: #ffc32c;
 }
 
 .calc {
