@@ -14,6 +14,8 @@ HTML || CSS
 - HTML, CSS, JS linters
 - NodeJs Installed
 
+- Access the live at [Math-magicians](https://sharon-odhiambo.github.io/Math-magicians/)
+
 ### Getting Started
 To get a local copy for practice or as a template, follow these simple steps.
 

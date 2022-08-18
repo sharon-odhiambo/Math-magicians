@@ -1,9 +1,14 @@
 import React from 'react';
 import './App.css';
-import Calculator from './components/Calculator';
+import { BrowserRouter } from 'react-router-dom';
+import Nav from './SPA/nav';
 
 const App = () => (
-  <Calculator />
+  <>
+    <BrowserRouter>
+      <Nav />
+    </BrowserRouter>
+  </>
 );
 
 export default App;
